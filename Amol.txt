@@ -1,6 +1,9 @@
 Amol
 <<<<<<< HEAD
+<<<<<<< HEAD
 Birar 
 =======
 Winjit
 >>>>>>> 5a4a3673b8910a3ff61a9a1cde40a2961286fc64
+=======
+>>>>>>> 727425c3a0f21bdf559aa82ec41dcf9582de8de7
